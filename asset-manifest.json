@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/E-commerce_Redux_SASS/static/css/main.dd8028e3.css",
-    "main.js": "/E-commerce_Redux_SASS/static/js/main.1d2baf82.js",
+    "main.css": "/E-commerce_Redux_SASS/static/css/main.270b45eb.css",
+    "main.js": "/E-commerce_Redux_SASS/static/js/main.12c38279.js",
     "static/js/787.1f8df00d.chunk.js": "/E-commerce_Redux_SASS/static/js/787.1f8df00d.chunk.js",
     "index.html": "/E-commerce_Redux_SASS/index.html",
-    "main.dd8028e3.css.map": "/E-commerce_Redux_SASS/static/css/main.dd8028e3.css.map",
-    "main.1d2baf82.js.map": "/E-commerce_Redux_SASS/static/js/main.1d2baf82.js.map",
+    "main.270b45eb.css.map": "/E-commerce_Redux_SASS/static/css/main.270b45eb.css.map",
+    "main.12c38279.js.map": "/E-commerce_Redux_SASS/static/js/main.12c38279.js.map",
     "787.1f8df00d.chunk.js.map": "/E-commerce_Redux_SASS/static/js/787.1f8df00d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dd8028e3.css",
-    "static/js/main.1d2baf82.js"
+    "static/css/main.270b45eb.css",
+    "static/js/main.12c38279.js"
   ]
 }
