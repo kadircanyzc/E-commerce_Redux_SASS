@@ -6,15 +6,14 @@ const CartItems = () => {
     const cartItems = useSelector((state)=>state.cart.itemsList);
   return (
     <div className="cart-container">
-      <h2>Products</h2>
-      <ul>
+      <div>
        
           {cartItems.map(item =>(
-             <li key={item.id}>
-           <CartItem quantity={item.quantity} id={item.id} price={item.price} total={item.totalPrice} name={item.name} /></li> 
+             <div key={item.id}>
+           <CartItem quantity={item.quantity} id={item.id} price={item.price} total={item.totalPrice} name={item.name} /></div> 
           ))}
         
-      </ul>
+      </div>
     </div>
   );
 };
